@@ -5,7 +5,16 @@
 https://youtube.com/shorts/9SoxyhsJHBI
 
 ## スクリーンショット
+### タイトル画面
+![タイトル画面](Screenshots/1タイトル画面.png)
 
+### プレイ画面
+![プレイ画面](Screenshots/2プレイ画面.png)
+![プレイ画面](Screenshots/3オーダー達成画面.png)
+![プレイ画面](Screenshots/4オーダー失敗画面.png)
+
+### リザルト画面
+![リザルト画面](Screenshots/5リザルト画面.png)
 
 ## 実行方法
 
