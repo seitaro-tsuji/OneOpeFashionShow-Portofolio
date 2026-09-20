@@ -28,7 +28,9 @@ https://youtube.com/shorts/9SoxyhsJHBI
 
 
 ## 実行方法
+Android端末でプレイできます。
 
+[Android版(APK)をダウンロード](https://github.com/seitaro-tsuji/OneOpeFashionShow-Portofolio/releases/tag/v1.0.0)
 
 ## 使用技術
 - Unity 6
